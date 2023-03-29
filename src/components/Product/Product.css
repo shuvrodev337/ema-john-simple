@@ -3,7 +3,8 @@
     height: 500px;
     border: 1px solid #95A0A7;
     border-radius: 8px;
-    position: relative;
+    position: relative;   
+    /* bottom space remove korte */
 }
 .product img{
     width: 286px;
@@ -36,7 +37,9 @@
     background-color: #FFE0B3;
     border: 1px solid #95A0A7;
     border-radius: 0px 0px 8px 8px;
+    /* position akdom niche rakhte */
     position: absolute;
+    /* bottom space remove korte: */
     bottom: 0;
 }
 .btn-cart:hover{
