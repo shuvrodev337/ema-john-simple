@@ -7,3 +7,17 @@
 /* .cart p{
     font-size: 17px;
 } */
+
+.btn-clear-cart{
+    width: 90%;
+    height: 56px;
+    margin: 10px auto;
+    background: #FF3038;
+    color: white;
+    font-size: 21px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
